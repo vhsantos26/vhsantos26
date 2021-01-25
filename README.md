@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vhsantos26&show_icons=true)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhsantos26&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=vhsantos26&show_icons=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhsantos26&layout=compact&count_private=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
